@@ -1,0 +1,48 @@
+{
+  "fabrics": {
+    "items" : [
+      {
+        "id": 1,
+        "name": "Heritance, forest green melange",
+        "image" : "/public/icons/fabric.png",
+        "description": "Pique, 100% Pima Cotton, 200 g/m²",
+        "price": "$59",
+        "price_raw" : 59
+      },
+      {
+        "id": 2,
+        "name": "Grindlays, white",
+        "image" : "/public/icons/white-fabric.webp",
+        "description": "Pique, 100% Pima Cotton, 200 g/m²",
+        "price": "$59",
+        "price_raw" : 59
+      },
+      {
+        "id": 3,
+        "name": "Heritance, sky blue melange",
+        "image" : "/public/icons/blue-fabric.webp",
+        "description": "Pique, 100% Pima Cotton, 200 g/m²",
+        "price": "$59",
+        "price_raw" : 59
+      }
+    ],
+    "default" : 1
+  },
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": 1200.99
+    },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "price": 699.99
+    },
+    {
+      "id": 103,
+      "name": "Headphones",
+      "price": 89.99
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Fabric",
+    "image" : "/public/icons/fabric.png"
+  },
+  {
+    "id": 2,
+    "name": "Sleeve Type",
+    "image" : "/public/icons/sleeve-type.svg"
+  },
+  {
+    "id": 3,
+    "name": "Pocket",
+    "image" : "/public/icons/pocket.svg"
+  },
+  {
+    "id": 4,
+    "name": "Placket",
+    "image" : "/public/icons/placket.svg"
+  },
+  {
+    "id": 4,
+    "name": "Bottom Cut",
+    "image" : "/public/icons/bottom-cut.svg"
+  },
+  {
+    "id": 4,
+    "name": "Button",
+    "image" : "/public/icons/button.webp"
+  }
+]
